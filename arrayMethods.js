@@ -47,3 +47,8 @@ brownOnly.splice(1, 5, "brown", "brown", "brown");
 
 orderedValues.unshift(1, 2, 3);
 var orderedValuesNewLength = orderedValues.length;
+
+var randomThingsArray = genericNumberArray.concat(colors);
+
+var newOrders = [{takeOut: "Chinese",}, {takeOut: "takis"}];
+var updatedOrders = orderQueue.concat(newOrders);
