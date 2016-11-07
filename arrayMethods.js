@@ -52,3 +52,6 @@ var randomThingsArray = genericNumberArray.concat(colors);
 
 var newOrders = [{takeOut: "Chinese",}, {takeOut: "takis"}];
 var updatedOrders = orderQueue.concat(newOrders);
+
+var sentence = scrambledWords.join(" ");
+var myFruits = fruitCollection.join(" + ");
