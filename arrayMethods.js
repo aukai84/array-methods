@@ -21,8 +21,8 @@ nameArray.push("Aukai");
 nameArray.push("Tirrell");
 
 function addNumbers() {
-  for (var i = 5; i <= 10; i++) {
-    genericNumberArray.push(i +1);
+  for (var i = 6; i <= 10; i++) {
+    genericNumberArray.push(i);
   }
 }
 addNumbers();
