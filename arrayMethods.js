@@ -26,3 +26,5 @@ function addNumbers() {
   }
 }
 addNumbers();
+
+var popResult = colors.pop();
